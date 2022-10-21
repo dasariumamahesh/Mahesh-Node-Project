@@ -1,0 +1,6 @@
+{
+    "joke": {
+        "url" : "https://official-joke-api.appspot.com",
+        "endPoint" : "/random_joke"
+    }
+}
